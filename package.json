@@ -1,0 +1,13 @@
+{
+  "name": "simpleObservable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alkaids/simpleObservable.git",
+  "author": "jinxin0112 <m18508218948@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "rxjs": "^6.5.4",
+    "typescript": "^3.7.4"
+  }
+}
